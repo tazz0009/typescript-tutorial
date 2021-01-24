@@ -1,0 +1,13 @@
+{
+  "name": "typescript-test01",
+  "version": "1.0.0",
+  "description": "## Project setup ``` npm init -y ```",
+  "main": "js-only.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
